@@ -1,12 +1,12 @@
-package examples.users;
+// package examples.users;
 
-import com.intuit.karate.junit5.Karate;
+// import com.intuit.karate.junit5.Karate;
 
-class UsersRunner {
+// class UsersRunner {
     
-    @Karate.Test
-    Karate testUsers() {
-        return Karate.run("users").relativeTo(getClass());
-    }    
+//     @Karate.Test
+//     Karate testUsers() {
+//         return Karate.run("users").relativeTo(getClass());
+//     }    
 
-}
+// }
